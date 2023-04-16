@@ -1,4 +1,4 @@
-# Just for static file hoisting powered by [cloudfare works](https://www.cloudflare.com/)
+# Static file hoisting powered by [cloudfare works](https://www.cloudflare.com/)
 
 ## Setup 
 
