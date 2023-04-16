@@ -1,4 +1,10 @@
 # Just for static file hoisting
 
-## [CDN convertor](https://statically.io/convert/)
+## usage
 
+```ts
+const BaseUrl = 'https://static.guygubaby.top'
+
+// All assets are file based routing
+const README_URL = `${BaseUrl}/README.md`
+```
